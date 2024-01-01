@@ -1,0 +1,42 @@
+
+
+
+Homepage title:
+
+Title: "Galaxy Grill: Flavors Beyond the Stars"
+Subtitle: "Embark on a Culinary Quest Across the Cosmos!"
+Description:
+Welcome to Galaxy Grill – where the sizzle of the grill meets the sparkle of the stars! Join our cosmic crew, led by our hilarious Head Chef Zorg, who's flown in from the far side of Jupiter, ready to serve you the universe's most astronomical eats. Dive into a galaxy of gourmet with our Meteor Meatloaf, rocket through refreshment with our Nebula Nectar, and finish your spacewalk with a Supernova Sundae that's truly out of this world. So, suit up, space foodies – it's time to take your taste buds to infinity and beyond!
+Menu dishes:
+
+
+### **Galactic Grub**
+
+**1. Meteor Meatloaf**
+   *Description*: A loaf of meat so good, it's out of this world! Served with a side of asteroid mashed potatoes.
+
+**2. Cosmic Chicken Nuggets**
+   *Description*: These nuggets have been seasoned with our secret space spice and come with a dipping sauce made from the milk of the Milky Way.
+
+**3. Big Bang Burger**
+   *Description*: A burger so big, it caused a flavor explosion. Topped with a galaxy of cheese and a ring of onion.
+
+### **Stellar Sips**
+
+**1. Nebula Nectar**
+   *Description*: A cosmic concoction of fruit juices that looks like a swirling nebula in your glass.
+
+**2. Martian Margarita**
+   *Description*: A classic margarita with a twist of red Martian dust for that out-of-this-world flavor.
+
+**3. Black Hole Smoothie**
+   *Description*: A dark, rich smoothie with a gravitational pull of flavors. It's impossible to escape its deliciousness.
+
+### **Dessert Constellations**
+
+**1. Supernova Sundae**
+   *Description*: An explosion of ice cream, whipped cream, and star-shaped sprinkles.
+
+2. UFO (Unbelievably Fantastic Oreo) Shake
+Description: A milkshake with Oreos that's so mysteriously good, it must be from another galaxy.
+
