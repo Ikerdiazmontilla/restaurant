@@ -1,1 +1,2 @@
-console.log("Bruh")
+import './style.css';
+

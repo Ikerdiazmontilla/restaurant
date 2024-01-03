@@ -1,0 +1,149 @@
+@font-face {
+    font-family: 'Rubik';
+    src: url('Rubik/Rubik-VariableFont_wght.ttf')  format('truetype');
+    src: url("Rubik/static/Rubik-Medium.ttf");
+  }
+
+  /* Css reset */
+
+  *, *::before, *::after {
+    box-sizing: border-box;
+   }
+   
+   * {
+    margin: 0;
+   padding: 0;
+   /* border: 1px solid red; */
+   }
+
+   
+   body {
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+   }
+   
+   img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+   }
+   
+   input, button, textarea, select {
+    font: inherit;
+   }
+   
+   p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+    text-align: center;
+   }
+   
+
+body{
+    font-family: 'Rubik', Courier, monospace;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+/* Styling */
+
+
+body{
+    background-image: url(images/realistic-bg.png);
+}
+
+#content{
+    display: flex;
+    flex-direction: column;
+    gap: 5vh;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 4vh;
+    position: relative;
+    
+}
+
+.wrapper::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.7;
+    z-index: -1;
+    background-color: black;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom:2vh;
+    padding-top:2vh;
+}
+
+
+h1{
+    font-size: 3rem;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav > a{
+    font-size: 1.3rem;
+    color: white;
+    padding: 1.3rem;
+}
+
+nav > a:hover{
+    position: relative;
+    border-bottom: 3px solid white ;
+    bottom: 3px;
+}
+
+
+.index-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5vh;
+    position: relative;
+    padding: 20px;
+    margin: 3vh 3vw;
+}
+
+.index-main::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.4;
+    z-index: -1;
+    background-color: black;
+}
+
+.index-main > h2{
+    font-size: 2rem;
+}
+.index-main > img{
+    max-width: 500px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+}
+
+.index-p{
+    width: 60%;
+    font-weight: 100;
+}
