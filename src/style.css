@@ -52,6 +52,9 @@ a{
 
 body{
     background-image: url(images/realistic-bg.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
 }
 
 #content{
@@ -110,8 +113,10 @@ nav > a:hover{
     bottom: 3px;
 }
 
+/* Home styling */
 
-.index-main{
+
+.index-main, .menu-main{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -121,7 +126,7 @@ nav > a:hover{
     margin: 3vh 3vw;
 }
 
-.index-main::before{
+.index-main::before, .menu-main::before{
     content: '';
     position: absolute;
     top: 0;
@@ -145,4 +150,50 @@ nav > a:hover{
 .index-p{
     width: 60%;
     font-weight: 100;
+}
+
+
+
+/* Menu styling */
+
+
+.menu-main{
+    gap: 8vh;
+}
+
+.menu-main h2{
+    font-size: 2.5rem;
+}
+
+.menu-main > div{
+    width: fit-content;
+    max-width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5vh;
+    opacity: 0.7;
+    background-color: black;
+    padding: 4vh 4vw;
+    border-radius: 12px;
+}
+
+.menu-main > div:hover{
+    background-color: rgb(71, 66, 66);
+    transition:0.3s;
+}
+
+.menu-main h3{
+    font-size: 2rem;
+}
+
+.menu-main img{
+    max-width: 400px;
+    width: 80%;
+    aspect-ratio: 1/1;
+    border-radius: 12px;
+}
+
+.menu-main p{
+    font-size: 1.5rem;
 }

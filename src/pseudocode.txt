@@ -9,53 +9,14 @@
 
 
 
-<main class="menu-main">
+<main class="index-main">
+            <h2>Embark on a Culinary Quest Across the Cosmos!</h2>
 
-            <h2>Galactic Grub</h2>
-            <div>
-                <h3>Meteor Meatloaf</h3>
-                <img src="" alt="">
-                <p>A loaf of meat so good, it's out of this world! Served with a side of asteroid mashed potatoes.</p>
-            </div>
-            <div>
-                <h3>Cosmic Chicken Nuggets</h3>
-                <img src="" alt="">
-                <p>These nuggets have been seasoned with our secret space spice and come with a dipping sauce made from the milk of the Milky Way.
-                </p>
-            </div>
-            <div>
-                <h3>Big Bang Burger</h3>
-                <img src="" alt="">
-                <p>A burger so big, it caused a flavor explosion. Topped with a galaxy of cheese and a ring of onion.</p>
-            </div>
+            <img src="../src/images/chef.png" alt="">
 
-
-            <h2>Stellar Sips</h2>
-            <div>
-                <h3>Nebula Nectar</h3>
-                <img src="" alt="">
-                <p>A cosmic concoction of fruit juices that looks like a swirling nebula in your glass</p>
-            </div>
-            <div>
-                <h3>Martian Margarita</h3>
-                <img src="" alt="">
-                <p>A classic margarita with a twist of red Martian dust for that out-of-this-world flavor.</p>
-            </div>
-            <div>
-                <h3>Black Hole Smoothie</h3>
-                <img src="" alt="">
-                <p>A dark, rich smoothie with a gravitational pull of flavors. It's impossible to escape its deliciousness.</p>
-            </div>
-
-            <h2>Dessert Constellations</h2>
-            <div>
-                <h3>Supernova Sundae</h3>
-                <img src="" alt="">
-                <p>An explosion of ice cream, whipped cream, and star-shaped sprinkles.</p>
-            </div>
-            <div>
-                <h3>UFO (Unbelievably Fantastic Oreo) Shake</h3>
-                <img src="" alt="">
-                <p>A milkshake with Oreos that's so mysteriously good, it must be from another galaxy</p>
-            </div>
+            <p class="index-p">
+                
+                Welcome to Galaxy Grill – where starry flavors and galactic grills collide! Chef Zorg's zoomed in from Jupiter's diner scene to cook up some cosmic chow. Bite into a Meteor Meatloaf, sip on a starry Nebula Nectar, and top it off with a Supernova Sundae. Gear up, foodonauts – it's a flavor blast to the taste-budsphere! 
+            </p>
+            
         </main>
