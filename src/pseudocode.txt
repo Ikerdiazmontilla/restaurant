@@ -20,3 +20,56 @@
             </p>
             
         </main>
+
+
+<main class="menu-main">
+
+            <h2>Galactic Grub</h2>
+            
+            <div>
+                <h3>Meteor Meatloaf</h3>
+                <img src="../src/images/meteor-metloaf.png" alt="">
+                <p>A loaf of meat so good, it's out of this world! Served with a side of asteroid mashed potatoes.</p>
+            </div>
+            <div>
+                <h3>Cosmic Chicken Nuggets</h3>
+                <img src="../src/images/cosmic-chicken-nuggets.png" alt="">
+                <p>These nuggets have been seasoned with our secret space spice and come with a dipping sauce made from the milk of the Milky Way.
+                </p>
+            </div>
+            <div>
+                <h3>Big Bang Burger</h3>
+                <img src="../src/images/big-bang-burger.png" alt="">
+                <p>A burger so big, it caused a flavor explosion. Topped with a galaxy of cheese and a ring of onion.</p>
+            </div>
+
+
+            <h2>Stellar Sips</h2>
+            <div>
+                <h3>Nebula Nectar</h3>
+                <img src="../src/images/nebula-nectar.png" alt="">
+                <p>A cosmic concoction of fruit juices that looks like a swirling nebula in your glass</p>
+            </div>
+            <div>
+                <h3>Martian Margarita</h3>
+                <img src="../src/images/martian-margarita.png" alt="">
+                <p>A classic margarita with a twist of red Martian dust for that out-of-this-world flavor.</p>
+            </div>
+            <div>
+                <h3>Black Hole Smoothie</h3>
+                <img src="../src/images/black-hole-smoothie.png" alt="">
+                <p>A dark, rich smoothie with a gravitational pull of flavors. It's impossible to escape its deliciousness.</p>
+            </div>
+
+            <h2>Dessert Constellations</h2>
+            <div>
+                <h3>Supernova Sundae</h3>
+                <img src="../src/images/supernova-sundae.png" alt="">
+                <p>An explosion of ice cream, whipped cream, and star-shaped sprinkles.</p>
+            </div>
+            <div>
+                <h3>UFO (Unbelievably Fantastic Oreo) Shake</h3>
+                <img src="../src/images/ufo.png" alt="">
+                <p>A milkshake with Oreos that's so mysteriously good, it must be from another galaxy</p>
+            </div>
+        </main>
