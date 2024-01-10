@@ -1,3 +1,5 @@
+import map from "./images/restaurant-location.png"
+
 function createContactMain(){
     const divContent = document.querySelector("#content")
     const main = document.createElement("main")
@@ -7,7 +9,7 @@ function createContactMain(){
     const address = document.createElement("p")
     address.textContent = "🏠 Hollywood Boulevard 42, Los Angeles, USA"
     const img = document.createElement("img")
-    img.src = "../src/images/restaurant-location.png"
+    img.src = map
     
     main.appendChild(phone)
     main.appendChild(address)

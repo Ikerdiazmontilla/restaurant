@@ -1,3 +1,6 @@
+import chef from "./images/chef.png"
+
+
 function createHeader(){
     const divContent = document.querySelector("#content")
     const wrapper = document.createElement("div")
@@ -32,7 +35,7 @@ function createIndexMain(){
     const h2 = document.createElement("h2")
     h2.textContent = "Embark on a Culinary Quest Across the Cosmos!"
     const img = document.createElement("img")
-    img.src = "../src/images/chef.png"
+    img.src = chef
     const p = document.createElement("p")
     p.textContent = "Welcome to Galaxy Grill – where starry flavors and galactic grills collide! Chef Zorg's zoomed in from Jupiter's diner scene to cook up some cosmic chow. Bite into a Meteor Meatloaf, sip on a starry Nebula Nectar, and top it off with a Supernova Sundae. Gear up, foodonauts – it's a flavor blast to the taste-budsphere!"
     p.classList = "index-p"

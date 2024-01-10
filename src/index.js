@@ -1,6 +1,8 @@
+import "./style.css"
 import {createHeader, createIndexMain} from  './load.js'
 import { createMenuMain } from './menu.js'
 import { createContactMain } from './contact.js'
+
 
 
 createHeader()
